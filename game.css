@@ -1,9 +1,16 @@
-.container{
-    /* display: flex; */
+.p1{
     background-image: url("http://www.dreamworks.com/kungfupanda/uk/images/uploads/games/_1095/KFP3_Pos_Jumping_Adventure_lg.jpg");
-    width: 100%;
+    width: 50%;
     height: 650px;
     background-repeat: no-repeat;
+}
+
+.p2{
+    background-image: url("https://www.denverpost.com/wp-content/uploads/2016/05/20080604__20080606_D01_AE06SCPANDAp2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 617px;
+    background-repeat: no-repeat
 }
 
 .title{
